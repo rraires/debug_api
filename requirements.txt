@@ -1,0 +1,5 @@
+streamlit
+requests
+paho-mqtt
+opencv-python
+numpy
